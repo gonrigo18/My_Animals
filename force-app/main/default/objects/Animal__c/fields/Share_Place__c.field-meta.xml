@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Share_Place__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Marcar si el animal puede compartir lugar con otros animales</description>
+    <externalId>false</externalId>
+    <label>Share Place</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

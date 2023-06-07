@@ -34,6 +34,10 @@ public with sharing class AnimalHelper {
             }
             else{
                 animalToCreate.add(animal);
+<<<<<<< Updated upstream
+=======
+                System.debug('creado.');
+>>>>>>> Stashed changes
             }
         }
     }
